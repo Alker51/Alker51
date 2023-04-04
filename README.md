@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alker51
 - 👀 I’m interested in Video Games, Coding, and Technology.
-- 🌱 I’m currently working in Web development.
+- 👨🏻‍💼 I’m currently working in Web development.
 - 📫 How to reach me ? Twitter, Mail, Here
 
 <!---
