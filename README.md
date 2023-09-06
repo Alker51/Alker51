@@ -90,7 +90,7 @@ I'm passionate about computers, new technology and video games.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alker51&theme=jolly" alt="Liked language">
 </div>
 
-## 📀 Am I Coding & What I listening ?
+## 📀 What's my music when I code?
 
 <div align="center">
   <a src="https://open.spotify.com/user/11179279444">
