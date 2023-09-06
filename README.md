@@ -91,7 +91,7 @@ I'm passionate about computers, new technology and video games.
   </a>
 </div>
 
-## 📊 Stat
+## 📊 Github Stat
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alker51&theme=jolly">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alker51&theme=jolly" alt="Liked language">
