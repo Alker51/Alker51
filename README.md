@@ -7,7 +7,7 @@ I'm currently working as a Back-End Developer at Dr Création, Bezannes, France.
 <br />
 I'm passionate about computers, new technology and video games.
 
-## 📞 contact
+## 📞 Contact
 
 <div align="center">
   <a href="mailto:remyrobin51@gmail.com">
@@ -21,7 +21,7 @@ I'm passionate about computers, new technology and video games.
   </a>
 </div>
 
-## 👨‍💻 tech stack
+## 👨‍💻 Tech stack
 <div align="center">
   <a href="https://php.net">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -82,13 +82,6 @@ I'm passionate about computers, new technology and video games.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-</div>
-
-## 📡 Social Media
-<div align="center">
-  <a href="https://www.linkedin.com/in/remy-robin-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
 
 ## 📊 Github Stat
