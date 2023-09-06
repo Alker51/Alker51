@@ -38,6 +38,7 @@ I'm passionate about computers, new technology and video games.
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
+  <br>
   <a href="https://www.typescriptlang.org/">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
@@ -65,6 +66,7 @@ I'm passionate about computers, new technology and video games.
   <a href="https://learn.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7.3">
       <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   </a>
+  <br>
   <a href="https://www.google.com/intl/fr_fr/chrome/">
       <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   </a>
@@ -79,6 +81,7 @@ I'm passionate about computers, new technology and video games.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
