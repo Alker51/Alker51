@@ -70,8 +70,11 @@ I'm passionate about computers, new technology and video games.
   <a href="https://www.google.com/intl/fr_fr/chrome/">
       <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   </a>
-  <a href="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <a href="https://www.intel.fr/content/www/fr/fr/products/details/processors/core/i7.html">
       <img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  </a>
+    <a href="https://laragon.org/index.html">
+      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
   </a>
 </div>
 
