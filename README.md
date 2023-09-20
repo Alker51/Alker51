@@ -92,7 +92,7 @@ I'm passionate about computers, new technology and video games.
 
 ## 📊 Github Stat
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alker51&theme=jolly">
+  <img src="https://streak-stats.demolab.com?user=Alker51&theme=jolly&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alker51&theme=jolly" alt="Liked language">
 </div>
 
