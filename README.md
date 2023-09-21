@@ -92,8 +92,6 @@ I'm passionate about computers, new technology and video games.
 
 ## 📊 Github Stat
 <div align="center">
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alker51&theme=jolly" alt="Stat github">
 </div>
 
