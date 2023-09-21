@@ -92,7 +92,7 @@ I'm passionate about computers, new technology and video games.
 
 ## 📊 Github Stat
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alker" alt="Stat wakatime">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alker&theme=jolly" alt="Stat wakatime">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alker51&theme=jolly" alt="Stat github">
 </div>
 
