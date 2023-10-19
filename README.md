@@ -2,8 +2,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alker51&theme=jolly" alt="Resume of github Repo"/>
 </div>
 
-Welcome to my Github Profile, Here's all the information about how and with what I work.<br />
-I'm currently working as a Back-End Developer at Dr Création, Bezannes, France.<br />
+Welcome to my Github Profile, Here's all the information about how and with what I work.
 <br />
 I'm passionate about computers, new technology and video games.
 
