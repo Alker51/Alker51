@@ -59,6 +59,9 @@ I'm passionate about computers, new technology and video games.
   <a href="https://www.ubuntu.com">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
+  <a href="https://www.jetbrains.com/fr-fr/phpstorm/">
+      <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=whit">
+  </a>
   <a href="https://code.visualstudio.com/">
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </a>
@@ -72,7 +75,7 @@ I'm passionate about computers, new technology and video games.
   <a href="https://www.intel.fr/content/www/fr/fr/products/details/processors/core/i7.html">
       <img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   </a>
-    <a href="https://laragon.org/index.html">
+  <a href="https://laragon.org/index.html">
       <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
   </a>
 </div>
@@ -81,7 +84,6 @@ I'm passionate about computers, new technology and video games.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
-  <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=whit">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
