@@ -59,24 +59,24 @@ I'm passionate about computers, new technology and video games.
   <a href="https://www.ubuntu.com">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
-  <a href="https://www.jetbrains.com/fr-fr/phpstorm/">
+  <a href="https://www.jetbrains.com/phpstorm/">
       <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=whit">
   </a>
-  <a href="https://code.visualstudio.com/">
-      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <a href="https://www.jetbrains.com/webstorm/">
+      <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
   </a>
-  <a href="https://learn.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7.3">
-      <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <a href="https://www.symfony.com/">
+      <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">
   </a>
   <br>
-  <a href="https://www.google.com/intl/fr_fr/chrome/">
-      <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+  <a href="[https://www.mozilla.org/firefox/new/">
+      <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
   </a>
-  <a href="https://www.intel.fr/content/www/fr/fr/products/details/processors/core/i7.html">
-      <img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <a href="https://www.mysql.com/">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-  <a href="https://laragon.org/index.html">
-      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
+  <a href="https://www.phpmyadmin.net/">
+      <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
   </a>
 </div>
 
