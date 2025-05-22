@@ -60,7 +60,7 @@ I'm passionate about computers, new technology and video games.
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
   <a href="https://www.jetbrains.com/phpstorm/">
-      <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=whit">
+      <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
   </a>
   <a href="https://www.jetbrains.com/webstorm/">
       <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
