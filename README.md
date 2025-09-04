@@ -6,7 +6,7 @@ Welcome to my Github Profile, Here's all the information about how and with what
 <br />
 I'm passionate about computers, new technology and video games.
 
-Here's the time I'm working on my current project.It's a website for a new beauty company. [![wakatime](https://wakatime.com/badge/user/f5c2031f-643f-4045-8984-e8183f647a4d/project/ba995931-b7e8-4d1f-8512-1006c9822583.svg)](https://wakatime.com/badge/user/f5c2031f-643f-4045-8984-e8183f647a4d/project/ba995931-b7e8-4d1f-8512-1006c9822583)
+Here's the time I'm working on my current project.It's a website for a new beauty company : https://wakatime.com/badge/user/f5c2031f-643f-4045-8984-e8183f647a4d/project/ba995931-b7e8-4d1f-8512-1006c9822583.svg
 
 ## 📞 Contact & CV
 
